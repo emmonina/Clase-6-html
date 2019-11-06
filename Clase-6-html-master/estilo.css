@@ -1,0 +1,26 @@
+p  {width: 150px; 
+    text-align: justify;
+    line-height: inherit;
+
+};
+
+ p:first-letter{font-size: 150%;
+font-weight: bold}
+
+a.boton {text-decoration: none;
+background: blue;
+color: white;
+border: 1px outset #ccc;
+padding:  .1em .5em;}
+
+a.boton2 {    text-decoration: none;
+    background: blue;
+    color: white;
+    border: 1px outset #ccc;
+    padding:  .1em .5em;}
+
+
+   #hola {display:none;}
+
+   #mas:hover #hola {display: inline;}
+   
